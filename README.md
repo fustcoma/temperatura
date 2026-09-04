@@ -30,6 +30,13 @@ El sistema funciona de la següent manera:
 
 El codi d'aquest repositori correspon a la part del projecte que funciona a l'**Arduino**.
 
+## Llibreries necessàries
+
+El projecte utilitza les següents llibreries:
+
+- **DHT sensor library** — per llegir la temperatura i la humitat del DHT11.
+- **Adafruit Unified Sensor** — dependència necessària per a la llibreria DHT.
+
 ## Aplicació Android
 
 L'aplicació ha estat desenvolupada amb **MIT App Inventor** i està pensada per facilitar la visualització de les dades obtingudes per l'Arduino.
