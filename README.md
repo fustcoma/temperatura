@@ -34,8 +34,7 @@ El codi d'aquest repositori correspon a la part del projecte que funciona a l'**
 
 L'aplicació ha estat desenvolupada amb **MIT App Inventor** i està pensada per facilitar la visualització de les dades obtingudes per l'Arduino.
 
-**APK:**
-<iframe frameborder="0" src="https://itch.io/embed/4972579" width="552" height="167"><a href="https://fustcoma.itch.io/termometre">Termòmetre by fustcoma</a></iframe>
+**[Descarrega-la!!!](https://fustcoma.itch.io/termometre)**
 
 ## Llicència
 
